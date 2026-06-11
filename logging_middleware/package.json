@@ -1,0 +1,11 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable logging middleware for backend and frontend",
+  "main": "src/index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
